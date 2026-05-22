@@ -80,4 +80,5 @@ Traffic-EDA/
 ## Conclusion
   The analysis reveals that traffic behavior is strongly influenced by both temporal and spatial factors. Peak-hour congestion, weekday     traffic intensity, and junction-wise traffic variation highlight important urban traffic patterns useful for traffic management and       planning.
 ## Author
+#### Linkedin Profile : www.linkedin.com/in/kavita-bisht-17345b3a6
 #### Kavita Bisht
